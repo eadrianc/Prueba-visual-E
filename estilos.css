@@ -1,0 +1,100 @@
+h1 {
+top: 420px;
+left: 18px;
+width: 884px;
+height: 100px;
+text-align: left;
+font: normal normal 900 89px/79px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+img {
+top: 25px;
+left: 22px;
+width: 883px;
+height: 374px;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+h2 {
+top: 1117px;
+left: 21px;
+width: 235px;
+height: 42px;
+text-align: left;
+font: normal normal 900 34px/42px Montserrat;
+letter-spacing: 0px;
+color: #FFB300;
+opacity: 1;
+}
+
+p {
+top: 679px;
+left: 21px;
+width: 883px;
+height: 120px;
+text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+hr {
+top: 931px;
+left: 22px;
+height: 0px;
+width: 1300px;
+border: 5px solid #999999;
+opacity: 1;
+
+
+}
+/* UI Properties 
+top: 931px;
+left: 22px;
+width: 883px;
+height: 0px;
+ UI Properties 
+border: 5px solid #999999;
+opacity: 1;
+*/
+
+iframe {
+top: 2200px;
+left: 22px;
+width: 883px;
+height: 497px;
+border: 1px solid #707070;
+opacity: 1;
+}
+
+ul {
+    /* Layout Properties */
+top: 1179px;
+left: 96px;
+width: 753px;
+height: 140px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+ol {
+top: 1675px;
+left: 61px;
+width: 844px;
+height: 380px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 21px/34px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
